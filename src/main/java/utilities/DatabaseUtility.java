@@ -11,5 +11,9 @@ public class DatabaseUtility {
         System.out.println("connection in progress");
     }
 
+    public void connectOrcleDatabase(String connectionUrl) {
+        System.out.println("connection in progress");
+    }
+
 
 }
